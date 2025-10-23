@@ -5,6 +5,7 @@
 ### ========================================
 
 # 1) Load and explore the palmerpenguins dataset.
+# https://allisonhorst.github.io/palmerpenguins/index.html
 # 2) Compute summary statistics and estimate mean values for different groups.
 # 3) Perform a simple linear regression to analyze the relationship between variables. 
 # Compare Bill dimensions and body mass
